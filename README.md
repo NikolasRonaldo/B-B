@@ -1,2 +1,1 @@
-# B-B
-Intento de B&amp;B paso a paso
+intento de B&B paso a paso como en clases
