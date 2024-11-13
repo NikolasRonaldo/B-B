@@ -1,1 +1,1 @@
-intento de B&B paso a paso como en clases
+intento de B&B con mucho code no nesesario pero paso a paso como en clases
